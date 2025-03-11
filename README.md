@@ -1,5 +1,5 @@
-<h1 align="center">Ирина Горина</a> 
-<h3 align="center"> Junior Java-разработчик </h3>
+<h1 align="center">И</a> 
+<h3 align="center"> Java-разработчик </h3>
 
 
 ###  Hard skills
