@@ -1,2 +1,1 @@
-https://github.com/AniriDeve/AniriDeve/blob/main/Aniri.png?raw=true
-<img src="https://raw.githubusercontent.com/AniriDeve/AniriDeve/main/images/aniri.png" width="100%">
+<img src="https://github.com/AniriDeve/AniriDeve/blob/cf26c5f1531ee9d66d8ebf40a37a7223c5d39752/Aniri.png" width="100%">
